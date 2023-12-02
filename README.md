@@ -1,5 +1,7 @@
 # Unique Network + Magic sample
 
+[Demo](https://ashkuc.github.io/unique-magic-sample/)
+
 ## Considerations
 
 This is a sample project that demonstrates how to use Magic SDK to authenticate users and do some basic operations on Unique Network.
